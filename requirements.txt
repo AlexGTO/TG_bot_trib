@@ -1,1 +1,4 @@
-﻿python-telegram-bot==20.0
+python-telegram-bot==20.0
+sqlite3
+openpyxl
+pytz
